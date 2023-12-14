@@ -2,13 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I've graduated from Bialystok's University of Technology with major in Computer Science!\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and improving my developer's skillset.\
 ✍️ &nbsp;In my free time, I pursue sports and music oriented goals, with calisthenics and guitar being my favorites.\
-💬 &nbsp;Feel free to reach out for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at filip.sasinowski@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have reach out if you want to see my resume!
+📄 &nbsp;Please reach out if you want to see my resume!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br>
 
