@@ -30,7 +30,7 @@
 ![fl](https://img.shields.io/badge/-Fastlane-333333?style=flat&logo=fastlane)&nbsp;
 ![fl](https://img.shields.io/badge/-Sourcetree-333333?style=flat&logo=sourcetree&logoColor=0052CC)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
-
+<!--- 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,6 +39,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FilipSasinowski&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
