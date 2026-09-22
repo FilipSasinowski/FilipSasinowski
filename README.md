@@ -6,7 +6,7 @@
 🚀 &nbsp;On the side I build my own apps, three of them on the App Store, and do UX/UI design and websites.\
 🎓 &nbsp;Engineer's degree in Computer Science from Bialystok University of Technology.\
 🎸 &nbsp;Off the keyboard: calisthenics, yoga, guitar and piano, and a golden retriever called Duke.\
-🌐 &nbsp;Everything else is on my website: **[filipsasinowski.dev](https://filipsasinowski.dev)** (type a secret word into the command line while you're there).
+🌐 &nbsp;Everything else is on my website: **[filipsasinowski.dev](https://filipsasinowski.dev)** .
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br>
 
